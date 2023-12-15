@@ -13,9 +13,11 @@
     opacity: 0.9;
 }
 
+
+/* 
 .settings-list {
     padding-bottom: 60px;
-}
+} */
 
 .settings__setting-column:last-child {
     opacity: 0.4;
